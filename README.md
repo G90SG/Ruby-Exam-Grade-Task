@@ -1,4 +1,4 @@
-# Ruby-Exam-Grade-Task
+# Ruby Exam Grade Task
 Create a code which will accept input from the user, requesting their name and their score out of 100 on their exam. 
 Program then advises their exam grade using an IF statement 
 
